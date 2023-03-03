@@ -5,7 +5,8 @@ int main(){
 	string name= "bebo go to hill" ;
 	cout<<"\nhi";
 	cout<<"\n"<<name;
-	
+	cout<<"\nhann";
+	cout<<" han";
 	return 0;
 	
 }
